@@ -1,0 +1,9 @@
+﻿hinh_12_Trinh,a_12_Trinh,b_12_Trinh,c_12_Trinh,expected_12_Trinh
+HinhChuNhat,4,7,0,28.000
+HinhVuong,6,0,0,36.000
+HinhTron,3,0,0,28.274
+HinhTamGiac,3,4,5,6.000
+HinhChuNhat,0,4,0,exception
+HinhVuong,-6,0,0,exception
+HinhTron,-3,0,0,exception
+HinhTamGiac,0,-7,2,exception
